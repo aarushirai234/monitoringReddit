@@ -1,0 +1,100 @@
+# 🔍 monitoringReddit
+
+## ⚡ TL;DR
+AI agent that scans Reddit to help product teams (e.g., Instagram) automatically detect user trends, bugs, sentiment shifts, and product opportunities—without manually reading posts.
+
+---
+
+## 🎯 Problem
+
+Product teams (e.g., Instagram) rely on external sources like Reddit to understand user sentiment, bugs, and feature requests.
+
+For platforms like Instagram, user feedback is often fragmented across communities, making it difficult to:
+- detect emerging issues early  
+- identify consistent user pain points  
+- synthesize insights into actionable decisions  
+
+This process is manual, slow, and not scalable.
+
+---
+
+## 🚀 Solution
+
+Built an AI-powered system that:
+
+- Ingests real-time Reddit discussions  
+- Filters high-signal posts using engagement heuristics  
+- Classifies posts into product-relevant categories  
+- Generates grounded insights with source attribution  
+- Displays results via an interactive dashboard  
+
+While this implementation focuses on Instagram-related subreddits, the system is modular and can be easily adapted to other products and platforms.
+
+---
+
+## 🧠 What it produces
+
+- 🔥 Top user trends  
+- ⚠️ Key complaints  
+- 🐞 Emerging bugs  
+- 💬 Overall user sentiment  
+- ✅ Recommended product actions  
+
+Each insight is backed by source Reddit posts.
+
+---
+
+## 🏗️ System Architecture
+
+Pipeline:
+
+1. **Ingestion**
+   - Fetches Reddit posts from Instagram-related subreddits (e.g., r/Instagram, r/socialmedia), configurable for other products  
+
+2. **Filtering**
+   - Filters posts based on engagement (score, comments)  
+
+3. **Classification**
+   - Categorizes posts into:
+     - Bug  
+     - Feature Request  
+     - Complaint  
+     - Trend  
+
+4. **Summarization**
+   - LLM generates grounded insights with supporting URLs  
+
+5. **Visualization**
+   - Streamlit dashboard for exploration and analysis  
+
+---
+
+## 🖥️ Dashboard
+
+Features:
+
+- Insights Dashboard  
+- Recommended Actions  
+- Post Explorer  
+- Raw Report  
+
+![Dashboard](screenshot.png)
+
+---
+
+## ⚙️ Tech Stack
+
+- Python  
+- OpenAI API  
+- Streamlit  
+- Requests  
+- Pandas  
+
+---
+
+## ▶️ How to run
+
+```bash
+pip install -r requirements.txt
+python main.py
+streamlit run app.py
