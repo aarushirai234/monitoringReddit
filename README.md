@@ -72,16 +72,16 @@ Pipeline:
    - Streamlit dashboard for exploration and analysis  
 
 ---
-
 ## 🖥️ Dashboard
-Features:
 
-- Insights Dashboard  
-- Recommended Actions  
-- Post Explorer  
-- Raw Report  
+### Insights Dashboard
+![Insights](1.%20Insights%20Dashboard.png)
 
+### Recommended Actions
+![Actions](2.%20Recommended%20Actions.png)
 
+### Post Explorer
+![Explorer](3.%20Reddit%20Post%20Explorer.png)
 
 ---
 
