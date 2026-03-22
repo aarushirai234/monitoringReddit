@@ -3,6 +3,10 @@
 ## ⚡ TL;DR
 AI agent that scans Reddit to help product teams (e.g., Instagram) automatically detect user trends, bugs, sentiment shifts, and product opportunities—without manually reading posts.
 
+## 🌐 Live Demo -
+Click Here -> [https://monitoringreddit-aarushirai.streamlit.app/](url)
+
+
 ---
 
 ## 🎯 Problem
@@ -70,7 +74,6 @@ Pipeline:
 ---
 
 ## 🖥️ Dashboard
-
 Features:
 
 - Insights Dashboard  
@@ -78,7 +81,7 @@ Features:
 - Post Explorer  
 - Raw Report  
 
-![Dashboard](screenshot.png)
+
 
 ---
 
