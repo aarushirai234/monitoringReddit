@@ -11,12 +11,7 @@ Click Here -> [https://monitoringreddit-aarushirai.streamlit.app/](url)
 
 ## 🎯 Problem
 
-Product teams (e.g., Instagram) rely on external sources like Reddit to understand user sentiment, bugs, and feature requests.
-
-For platforms like Instagram, user feedback is often fragmented across communities, making it difficult to:
-- detect emerging issues early  
-- identify consistent user pain points  
-- synthesize insights into actionable decisions  
+Product teams (e.g., Instagram) rely on external sources like Reddit to understand user sentiment, bugs, and feature requests. For platforms like Instagram, user feedback is often fragmented across communities, making it difficult to detect emerging issues early, identify consistent user pain points and synthesize insights into actionable decisions  
 
 This process is manual, slow, and not scalable.
 
@@ -36,6 +31,20 @@ While this implementation focuses on Instagram-related subreddits, the system is
 
 ---
 
+## 🖥️ Demo
+
+### Insights Dashboard
+![Insights](1.%20Insights%20Dashboard.png)
+
+### Recommended Actions
+![Actions](2.%20Recommended%20Actions.png)
+
+### Post Explorer
+![Explorer](3.%20Reddit%20Post%20Explorer.png)
+## 🏗️ System Architecture
+
+---
+
 ## 🧠 What it produces
 
 - 🔥 Top user trends  
@@ -47,8 +56,6 @@ While this implementation focuses on Instagram-related subreddits, the system is
 Each insight is backed by source Reddit posts.
 
 ---
-
-## 🏗️ System Architecture
 
 Pipeline:
 
@@ -70,18 +77,6 @@ Pipeline:
 
 5. **Visualization**
    - Streamlit dashboard for exploration and analysis  
-
----
-## 🖥️ Dashboard
-
-### Insights Dashboard
-![Insights](1.%20Insights%20Dashboard.png)
-
-### Recommended Actions
-![Actions](2.%20Recommended%20Actions.png)
-
-### Post Explorer
-![Explorer](3.%20Reddit%20Post%20Explorer.png)
 
 ---
 
