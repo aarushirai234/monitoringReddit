@@ -1,0 +1,50 @@
+# Weekly Report: Reddit Product Insights
+
+## Top Trends
+### Trend 1: Message Notification Issues 
+- Users are experiencing persistent message notifications despite having turned off message requests or received no actual messages. This has been a common point of confusion and frustration among users.
+- **Supporting Posts:**
+  - [Post 1](https://www.reddit.com/r/Instagram/comments/1rvu7ji/message_request_but_no_message/)
+  - [Post 2](https://www.reddit.com/r/Instagram/comments/1rvu734/why_is_it_saying_i_have_message_requests_when_i/)
+
+### Trend 2: Concerns Over Content Moderation
+- Complaints are circulating about inconsistencies in Instagram's content moderation, particularly regarding the handling of inappropriate content and the perceived leniency towards certain posts while being strict on others.
+- **Supporting Posts:**
+  - [Post 4](https://www.reddit.com/r/Instagram/comments/1ry2hjx/so_i_guess_thats_not_animal_abuse/)
+  - [Post 5](https://www.reddit.com/r/Instagram/comments/1ry8i9p/instagram_racism_ignored/)
+
+### Trend 3: Privacy and Security Concerns
+- Discussions are arising around Instagram's handling of user privacy, especially with changes that may threaten end-to-end encryption and showcase past usernames, which can lead to stalking risks.
+- **Supporting Posts:**
+  - [Post 18](https://www.reddit.com/r/Instagram/comments/1rvjb7j/i_deleted_instagram_after_they_have_stated_that/)
+  - [Post 15](https://www.reddit.com/r/Instagram/comments/1rzoxg3/shouldnt_it_be_not_allowed_to_see_peoples_past/)
+
+## Key Complaints
+### Complaint 1: Account Suspensions and Disabling
+- Users are expressing frustration over wrongful suspensions of their accounts, often resulting from algorithmic mistakes without clear avenues for appeal.
+- **Supporting Posts:**
+  - [Post 12](https://www.reddit.com/r/Instagram/comments/1rxii4v/account_suspended/)
+  - [Post 8](https://www.reddit.com/r/Instagram/comments/1rv78y3/account_permanently_disabled/)
+
+## Bugs & Issues
+### Issue 1: Repeated Bugs in Messaging Feature
+- There are reports of serious bugs tied to the messaging feature, such as accounts being locked out, and users not being able to receive messages despite notifications.
+- **Supporting Posts:**
+  - [Post 1](https://www.reddit.com/r/Instagram/comments/1rvu7ji/message_request_but_no_message/)
+  - [Post 16](https://www.reddit.com/r/Instagram/comments/1ryev3f/so_wtf_am_i_supposed_to_do_if_this_happens_now)
+
+## Overall Sentiment
+- The overall sentiment from users is one of frustration and concern as they navigate issues with messaging, inconsistent content moderation, and growing privacy threats. Many users feel their experiences are being overlooked, leading to calls for better transparency and responsiveness from Instagram.
+
+## Recommended Actions
+- **Enhance Transparency in Content Moderation:**
+  - Address inconsistencies in how content is monitored and take user feedback seriously.
+  - **Supporting Posts:**
+    - [Post 4](https://www.reddit.com/r/Instagram/comments/1ry2hjx/so_i_guess_thats_not_animal_abuse/)
+    - [Post 5](https://www.reddit.com/r/Instagram/comments/1ry8i9p/instagram_racism_ignored/)
+
+- **Improve Messaging Features:**
+  - Work on fixing the bugs related to messaging notifications and ensure clearer communication about message statuses.
+  - **Supporting Posts:**
+    - [Post 1](https://www.reddit.com/r/Instagram/comments/1rvu7ji/message_request_but_no_message/)
+    - [Post 2](https://www.reddit.com/r/Instagram/comments/1rvu734/why_is_it_saying_i_have_message_requests_when_i/)
