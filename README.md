@@ -1,7 +1,11 @@
 # 🔍 monitoringReddit - AI Agent
 
-## ⚡ TL;DR
+## 📌 TL;DR
 AI agent that scans Reddit to help product teams (e.g., Instagram) automatically detect user trends, bugs, sentiment shifts, and product opportunities—without manually reading posts.
+###  Why this matters
+
+Product teams are often reactive to user issues. This system enables proactive detection of trends, bugs, and sentiment shifts from external signals, reducing time-to-insight from hours to minutes.
+
 
 ## 🌐 Live Demo -
 Click Here -> [https://monitoringreddit-aarushirai.streamlit.app/](url)
